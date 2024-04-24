@@ -1,0 +1,14 @@
+D:\RP33\bin\Debug\net8.0\RP33.exe
+D:\RP33\bin\Debug\net8.0\RP33.deps.json
+D:\RP33\bin\Debug\net8.0\RP33.runtimeconfig.json
+D:\RP33\bin\Debug\net8.0\RP33.dll
+D:\RP33\bin\Debug\net8.0\RP33.pdb
+D:\RP33\obj\Debug\net8.0\RP33.GeneratedMSBuildEditorConfig.editorconfig
+D:\RP33\obj\Debug\net8.0\RP33.AssemblyInfoInputs.cache
+D:\RP33\obj\Debug\net8.0\RP33.AssemblyInfo.cs
+D:\RP33\obj\Debug\net8.0\RP33.csproj.CoreCompileInputs.cache
+D:\RP33\obj\Debug\net8.0\RP33.dll
+D:\RP33\obj\Debug\net8.0\refint\RP33.dll
+D:\RP33\obj\Debug\net8.0\RP33.pdb
+D:\RP33\obj\Debug\net8.0\RP33.genruntimeconfig.cache
+D:\RP33\obj\Debug\net8.0\ref\RP33.dll
