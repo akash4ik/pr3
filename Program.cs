@@ -5,35 +5,32 @@
         static void Main(string[] args)
         {
             char op;
-            double first, second, result;
+            int first, second, result;
 
             Console.Write("Введите первое число: ");
-            first = Convert.ToDouble(Console.ReadLine());
+            first = int.Parse(Console.ReadLine());
             Console.Write("Введите второе число: ");
-            second = Convert.ToDouble(Console.ReadLine());
+            second = int.Parse(Console.ReadLine());
             Console.Write("Введите оператор (+, -, *, /): ");
             op = (char)Console.Read();
 
             switch (op)
             {
                 case '+':
-                    result = first + second;
-                    Console.WriteLine("{0} + {1} = {2}", first, second, result);
+
+                    Console.WriteLine(new Class1().dada(first, second));
                     break;
 
                 case '-':
-                    result = first - second;
-                    Console.WriteLine("{0} - {1} = {2}", first, second, result);
+                    Console.WriteLine(new Class2().dada(first, second));
                     break;
 
                 case '*':
-                    result = first * second;
-                    Console.WriteLine("{0} * {1} = {2}", first, second, result);
+                    Console.WriteLine(new Class3().dada(first, second));
                     break;
 
                 case '/':
-                    result = first / second;
-                    Console.WriteLine("{0} / {1} = {2}", first, second, result);
+                    Console.WriteLine(new Class4().dada(first, second));
                     break;
 
                 default:
